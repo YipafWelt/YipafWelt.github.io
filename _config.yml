@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: 何思锐是小男娘
+subtitle: '一间关于可爱、穿搭与自我表达的小站'
+description: '一个轻松、虚构的角色主题博客，记录何思锐的日常灵感。'
+keywords: 何思锐, 小男娘, 穿搭, 日常
+author: 何思锐
+language: zh-CN
 timezone: ''
 
 # URL
